@@ -362,7 +362,7 @@ export function TariffTables() {
   const getDeliveryZonesTitle = () => {
     switch (language) {
       case "ru":
-        return "Зоны доставки";
+        return "Зоны достав��и";
       case "uz":
         return "Yetkazib berish zonalari";
       case "en":
@@ -601,7 +601,7 @@ export function TariffTables() {
   const getTashkentHeader = () => {
     switch (language) {
       case "ru":
-        return "Забор/дос��авка по г. Ташкент";
+        return "Забор/доставка по г. Ташкент";
       case "uz":
         return "Toshkent sh. ichida olib ketish / etkazish";
       case "en":
