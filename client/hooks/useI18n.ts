@@ -134,7 +134,7 @@ const translations: Record<Language, Translations> = {
     deliveryTime: "Время доставки: {time} дн.",
     days: "дн.",
     noTariffsFound: "Тарифы не найдены",
-    tryChangeParams: "Попробуйте изменить парам��тры поиска",
+    tryChangeParams: "Попробуйте изменить параметры поиска",
     calculationError: "Произошла ошибка при расчете тарифа",
 
     calculator: "Калькулятор",
@@ -150,7 +150,7 @@ const translations: Record<Language, Translations> = {
     toPointZone0: "До пункта (Зона 0)",
     toPointZone1: "До пункта (Зона 1)",
     toPointZone2: "До пункта (Зона 2)",
-    toPointZone3: "До пункта (Зона 3)",
+    toPointZone3: "До п��нкта (Зона 3)",
     pickupDeliveryCustomer: "Забор/доставка от/до клиента",
     pickupDeliveryTashkent: "Забор/доставка по г. Ташкент",
     toLocker: "Почтомат",
